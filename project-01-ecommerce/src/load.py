@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from transform import transform
 
 # TODO: move this to env later
-DB_URL = "postgres://postgres:password@localhost:5432/olist"
+DB_URL = "postgresql+psycopg2://postgres:password@localhost:5432/olist"
 
 def get_engine():
     engine = create_engine(DB_URL)
