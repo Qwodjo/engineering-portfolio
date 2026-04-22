@@ -5,3 +5,4 @@ venv/
 .DS_Store
 data/
 *.egg-info/
+output/charts/*.png

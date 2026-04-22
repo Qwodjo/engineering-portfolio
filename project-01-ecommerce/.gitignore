@@ -1,6 +1,0 @@
-data/
-output/charts/*.png
-.env
-__pycache__/
-*.pyc
-venv/
