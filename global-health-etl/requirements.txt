@@ -1,0 +1,10 @@
+requests==2.31.0 #for making HTTP requests to APIs
+pandas==2.2.0 #for data manipulation and analysis
+numpy==1.26.3 #for numerical computing
+openpyxl==3.1.2 #for working with Excel files
+pyarrow==14.0.2 #for columnar data processing
+sqlalchemy==2.0.25 #for database interaction
+psycopg2-binary==2.9.9 #for PostgreSQL database interaction
+python-dotenv==1.0.0 #for loading environment variables
+python-dateutil==2.8.2 #for date and time manipulation
+pytz==2024.1 #for timezone handling
