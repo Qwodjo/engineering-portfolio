@@ -1,3 +1,0 @@
-# Ecommerce Sales Analyzer
-
-WIP
