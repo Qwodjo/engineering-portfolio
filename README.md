@@ -7,4 +7,4 @@ A collection of data engineering projects built while learning the stack.
 ---
 
 Projects:
-- project-01-ecommerce — *in progress*
+- project-01 — *in progress*
